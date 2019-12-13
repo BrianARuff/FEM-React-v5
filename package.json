@@ -8,7 +8,7 @@
     "@babel/runtime": "^7.6.2",
     "@frontendmasters/pet": "^1.0.3",
     "@reach/router": "^1.2.1",
-    "npm": "^6.11.3",
+    "npm": "^6.13.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
